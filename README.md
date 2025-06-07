@@ -1,5 +1,8 @@
-# 👋 Olá! Seja bem-vinde ao meu GitHub 
- Hello! Welcome to my GitHub
+# 👋 Hello, World!!!
+
+> *A computer would deserve to be called intelligent if it could deceive a human into believing that it was human.*
+> 
+> ***Alan Turning***
 
 ## 💡 Sobre mim  / About Me
 
@@ -98,8 +101,7 @@ Realizados pela Udemy: / Completed at Udemy:
 
 ---
 
-## 📫 Contato  
-## 📫 Contact
+## 📫 Contato / Contact
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/clara-jullia-kondrasovas-costa-e-silva-687697324/details/certifications/)  
 - ✉️ Email: cjkondrasz@gmail.com  
