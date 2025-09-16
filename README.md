@@ -103,7 +103,7 @@ Realizados pela Udemy: / Completed at Udemy:
 
 ## 📫 Contato / Contact
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/clara-jullia-kondrasovas-costa-e-silva-687697324/details/certifications/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/kondrasz)  
 - ✉️ Email: cjkondrasz@gmail.com  
 
 ---
