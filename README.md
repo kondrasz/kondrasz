@@ -1,116 +1,57 @@
-# 👋 Hello, World!!!
+# 👋 Hello, World! I'm Cass (Casper)
 
-> *A computer would deserve to be called intelligent if it could deceive a human into believing that it was human.*
-> 
-> ***Alan Turning***
-
-## 💡 Sobre mim  / About Me
-
-
-Sou uma estudante de Engenharia com uma formação interdisciplinar que combina **Tecnologia**, **Engenharia Eletrônica**, **Ciência de Dados** e **Pensamento Computacional**. Tenho interesse em desenvolver soluções práticas e inovadoras por meio de projetos que integram **software, hardware e dados**.
-
-I am an Engineering student with an interdisciplinary background combining **Technology**, **Electronic Engineering**, **Data Science**, and **Computational Thinking**. I am passionate about developing practical and innovative solutions through projects integrating **software, hardware, and data**.
-
-Atualmente, aplico conhecimentos adquiridos em disciplinas como: 
-
-- Algoritmos de Alta Performance  
-- Design de Circuitos Eletrônicos  
-- Computação Quântica e Supercomputadores  
-- Banco de Dados e Análise de Dados para Engenharia  
-- Indústria 4.0 e Sociedade 5.0  
-- Sistemas Computacionais e Eletricidade  
-- Análise Multivariável e Resolução de Problemas Complexos  
-
- Currently, I apply knowledge gained from courses such as:
- 
-- High Performance Algorithms  
-- Electronic Circuit Design  
-- Quantum Computing and Supercomputers  
-- Database Design and Data Analysis for Engineering  
-- Industry 4.0 and Society 5.0  
-- Computer Systems and Electricity  
-- Multivariate Analysis and Complex Problem Solving  
+> "A computer would deserve to be called intelligent if it could deceive a human into believing that it was human."
+>
+> — **Alan Turing**
 
 ---
 
-## 🧪 Tecnologias e Ferramentas  / Technologies and Tools
+## 💡 Sobre mim / About Me
 
-### 💻 Programação & Desenvolvimento  /  Programming & Development
+Sou estudante de **Engenharia de Computação** com foco em **Inteligência Artificial** e **Arquitetura de Sistemas**. Atualmente, atuo no mercado de tecnologia como **Dispatcher na Stratesys**, onde lido diretamente com a gestão de tickets e suporte especializado em ecossistemas **SAP Ariba**.
 
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)  
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)  
-![Google Colab](https://img.shields.io/badge/-Google%20Colab-F9AB00?style=flat-square&logo=google-colab)  
+I am a **Computer Engineering** student focused on **Artificial Intelligence** and **Systems Architecture**. Currently, I work in the tech industry as a **Dispatcher at Stratesys**, managing tickets and specialized support within **SAP Ariba** ecosystems.
 
-### 🧰 IDEs & Ferramentas de Desenvolvimento  / IDEs & Development Tools
-
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)  
-![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse-ide)  
-![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat-square&logo=pycharm)  
-![RStudio](https://img.shields.io/badge/-RStudio-75AADB?style=flat-square&logo=rstudio)  
-
-### 🛠️ Design Técnico e CAD  /  Technical Design and CAD
-
-![Autodesk Inventor](https://img.shields.io/badge/-Autodesk%20Inventor-FF6D00?style=flat-square&logo=autodesk)  
-
-### 📊 Produtividade e Escritório  / Productivity and Office
-
-![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel)  
-![Word](https://img.shields.io/badge/-Word-2B579A?style=flat-square&logo=microsoft-word)  
-![Microsoft Office](https://img.shields.io/badge/-Microsoft%20Office-D83B01?style=flat-square&logo=microsoft-office)  
-
-### 🎨 Design Gráfico e Edição  / Graphic Design and Editing
-
-![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat-square&logo=canva)  
-![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop)  
-![Lightroom](https://img.shields.io/badge/-Lightroom-0C76AB?style=flat-square&logo=adobe-lightroom)  
-![Adobe](https://img.shields.io/badge/-Adobe-FF0000?style=flat-square&logo=adobe)  
-![CapCut](https://img.shields.io/badge/-CapCut-000000?style=flat-square&logo=capcut)  
+### 🎓 Foco Acadêmico Atual / Current Academic Focus:
+* **🤖 Inteligência Artificial:** IA e Computação Científica, explorando modelos computacionais e aprendizado de máquina.
+* **📊 Dados & Backend:** Advanced Database & Big Data, focado em alta disponibilidade e processamento em escala.
+* **📱 Desenvolvimento:** Advanced Programming & Mobile Development (Kotlin/Android) e Engenharia de Software.
+* **🌐 Infraestrutura:** Sistemas Operacionais e Interconectividade de Redes (Hiperconvergência).
 
 ---
 
-## 📂 Projetos em Destaque  / Featured Projects
+## 💼 Experiência Profissional / Professional Experience
 
-- `RotaSegura (Java)` – Monitoramento de encostas com sensores simulados. Aplicação prática de orientação a objetos e modularização.  
-- `RotaSegura (Java)` – Slope monitoring with simulated sensors. Practical application of object-oriented programming and modularization.
-
-- `Análise de Produção Aché (Java)` – Leitura de arquivos CSV com filtros, ordenações e análises de produtividade.  
-- `Aché Production Analysis (Java)` – Reading CSV files with filters, sorting, and productivity analysis.
-
----
-
-## 📚 Cursos Complementares  / Additional Courses
-
-Realizados pela FIAP: / Completed at FIAP:  
-
-- **Python** – concluído / completed  
-- **Chatbots** – concluído / completed  
-- **Formação Social e Sustentabilidade** – concluído / completed  
-- **Matemática** – concluído / completed  
-
-Realizados pela Udemy: / Completed at Udemy:
-
-- Java COMPLETO: Do Zero ao Profissional + Projetos! – em andamento / in progress
+### **Stratesys** | *AMS Dispatcher - SAP Ariba*
+* Atuação na triagem, categorização e direcionamento de tickets técnicos e funcionais.
+* Gestão de fluxos de trabalho em ambientes críticos de **Application Management Services (AMS)**.
+* Interface entre as necessidades de negócio e a resolução técnica em sistemas SAP.
 
 ---
 
-## 🌍 Idiomas  / Languages
+## 🧪 Tecnologias e Ferramentas / Technologies and Tools
 
-- 🇧🇷 Português: Nativo / Native  
-- 🇺🇸 Inglês: Intermediário / Intermediate  
+### 💻 Programação & IA / Programming & AI
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+
+### ⚙️ Sistemas & ERP / Systems & ERP
+![SAP](https://img.shields.io/badge/-SAP-008FD3?style=flat-square&logo=sap&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+### 🧰 IDEs & Workspace
+![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
 
 ---
 
 ## 📫 Contato / Contact
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/kondrasz)  
-- ✉️ Email: cjkondrasz@gmail.com  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/kondrasz)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:cjkondrasz@gmail.com)
 
 ---
-
-⭐ Se você gostou de algum projeto, não hesite em deixar uma estrela!  
-🤝 Aberta a colaborações, feedbacks e novos desafios.
-
-⭐ If you like any project, please feel free to leave a star!  
-🤝 Open to collaborations, feedback, and new challenges.
-
+⭐️ *Aberto a colaborações em projetos de IA, SAP e Engenharia de Dados!*
